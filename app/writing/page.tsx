@@ -1,3 +1,7 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = { title: "Writing" };
+
 import { getAllContent } from "@/lib/content";
 import PostListItem from "@/components/PostListItem";
 

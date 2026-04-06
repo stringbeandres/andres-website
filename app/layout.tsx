@@ -17,7 +17,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Andres Rabellino",
+  metadataBase: new URL("https://meetandres.ai"),
+  title: {
+    default: "Andres Rabellino",
+    template: "%s | Andres Rabellino",
+  },
   description: "Strategy & operations professional.",
 };
 

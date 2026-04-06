@@ -1,3 +1,7 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = { title: "Work" };
+
 import Link from "next/link";
 import { workData } from "@/lib/workData";
 
