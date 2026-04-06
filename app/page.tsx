@@ -10,7 +10,7 @@ export default function Home() {
           I'm Andres Rabellino, a strategy & ops professional focused on marketplace businesses. Thank you for stopping by.
         </p>
         <p>
-          My journey starts at NYU, where I wrote a senior-year thesis in political science. I discovered there what it was like to tackle truly ambiguous problems. Where lifting one stone exposes 12 more, and a cool-head and strategic mindset go a long way in choosing the best path.
+          My journey starts at NYU, where I wrote a senior-year thesis in political science. I discovered there what it was like to tackle truly ambiguous problems. Where lifting one stone exposes twelve more, a cool-head and strategic mindset go a long way in choosing the best path.
         </p>
         <p>
           With this experience and belief as an anchor, I made steps through various professional (and personal) roles — consultant at Accenture, builder of my mom's blogging business, organizer of my friends' trips, and senior director of Cove's marketplace portfolio in 2025.
