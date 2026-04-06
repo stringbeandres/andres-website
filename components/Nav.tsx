@@ -8,13 +8,13 @@ import Link from "next/link";
             Andres Rabellino
           </Link>
           <div className="flex items-center gap-6 sm:gap-8">
-            <Link href="/work" className="text-sm text-[#444444] hover:text-[#111111] transition-colors">
+            <Link href="/work" className="text-sm text-[#222222] hover:text-[#111111] transition-colors">
               Work
             </Link>
-            <Link href="/writing" className="text-sm text-[#444444] hover:text-[#111111] transition-colors">
+            <Link href="/writing" className="text-sm text-[#222222] hover:text-[#111111] transition-colors">
               Writing
             </Link>
-            <Link href="/contact" className="text-sm text-[#444444] hover:text-[#111111] transition-colors">
+            <Link href="/contact" className="text-sm text-[#222222] hover:text-[#111111] transition-colors">
               Contact
             </Link>
             <Link
