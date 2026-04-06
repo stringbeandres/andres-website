@@ -38,7 +38,7 @@ I looked at three approaches:
 
 **Website builders (Squarespace, Webflow):** Fast and polished, but templated. The site would look like a site. That's exactly what I was trying to avoid — a site that doesn't feel custom defeats the purpose.
 
-**Hiring a developer:** Expensive ($5,000–$10,000), slow, and the output wouldn't carry the same signal. The story I wanted to tell requires that *I* built it.
+**Hiring a developer:** Expensive ($5,000–$10,000), slow, and the output wouldn't carry the same signal. The story I wanted to tell required that *I* build it.
 
 **AI coding tools:** This is the unlock. Tools like GitHub Copilot and Cursor are strong, but they're primarily designed for engineers who already know what they're doing — they autocomplete and suggest, but they don't *drive*. Claude Code is different. It operates more like a senior engineer you can brief. You describe the problem, the constraints, the aesthetic — it generates complete, working files. You make decisions; it executes.
 
@@ -118,7 +118,7 @@ The site is live, but it's not done. The backlog:
 - **Write the case studies** — two placeholder projects waiting to become real ones
 - **Write more** — marketplace ops insights, tools I've built, things I've learned
 - **World Trivia game** — geography is a passion of mine and I love the idea of creating fun around it
-- **Test and iterate** — Vercel Analytics will tell me which pages people actually read; that shapes what I write next
+- **Test and iterate** — Vercel Analytics will tell me which pages people actually read, which will shape what I write next
 
 The 5% project is shipped. Maybe what I write here opens me to opportunities that I didn't expect.
 

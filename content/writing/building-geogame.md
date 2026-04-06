@@ -43,7 +43,7 @@ Two API routes handle everything. A `POST` writes the score when the timer expir
 
 The technical infrastructure was straightforward. What took more thought was the game feel — the decisions that determine whether it's actually fun to play.
 
-A few that mattered:
+A few decisions that mattered:
 
 - **Timer at 30 seconds.** Long enough to get into a rhythm, short enough to stay urgent.
 - **Score penalty for wrong answers.** −1 creates real stakes. Without it, the optimal strategy is just to guess fast.
