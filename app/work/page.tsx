@@ -12,7 +12,7 @@ export default function WorkPage() {
             {/* Section header */}
             <div className="mb-8 max-w-[720px]">
               <h2 className="font-serif text-2xl font-normal text-[#111111] mb-1">{section.company}</h2>
-              <p className="text-sm text-[#888888]">{section.role} · {section.years}</p>
+              <p className="text-sm text-[#444444]">{section.role} · {section.years}</p>
             </div>
 
             {/* Initiative tiles */}
@@ -21,12 +21,12 @@ export default function WorkPage() {
                 <div key={item.title} className="w-full border border-[#E5E4E0] px-10 py-8 flex flex-col justify-between min-h-[200px]">
                   <div>
                     <h3 className="font-serif text-lg font-normal text-[#111111] mb-3">{item.title}</h3>
-                    <p className="text-[#888888] leading-relaxed">{item.description}</p>
+                    <p className="text-[#444444] leading-relaxed">{item.description}</p>
                   </div>
                   <div className="flex items-center justify-between mt-6">
                     <div className="flex flex-wrap gap-2">
                       {item.tags.map((tag) => (
-                        <span key={tag} className="text-xs px-2 py-1 border border-[#E5E4E0] text-[#888888]">
+                        <span key={tag} className="text-xs px-2 py-1 border border-[#E5E4E0] text-[#444444]">
                           {tag}
                         </span>
                       ))}

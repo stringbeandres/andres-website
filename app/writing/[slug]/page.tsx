@@ -31,12 +31,12 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
 
   return (
     <div className="max-w-[1100px] mx-auto px-6 py-20">
-      <Link href="/writing" className="text-sm text-[#888888] hover:text-[#111111] transition-colors mb-10 block">
+      <Link href="/writing" className="text-sm text-[#444444] hover:text-[#111111] transition-colors mb-10 block">
         ← Writing
       </Link>
       <div className="mb-10">
         <h1 className="font-serif text-4xl text-[#111111] mt-2 mb-4">{(post as any).title}</h1>
-        <span className="text-sm text-[#888888]">
+        <span className="text-sm text-[#444444]">
           {formatDate((post as any).date)} · {readingTime((post as any).content)}
         </span>
       </div>

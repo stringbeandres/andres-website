@@ -3,9 +3,9 @@ import Link from "next/link";
 export default function ContactPage() {
   return (
     <div className="max-w-[1100px] mx-auto px-6 py-20">
-      <h1 className="font-serif text-4xl text-[#111111] mb-6">Get in touch</h1>
-      <p className="text-[#888888] text-lg mb-10">
-        I'm always open to interesting conversations — about marketplace strategy, operations, or anything you're working on.
+      <h1 className="font-serif text-4xl text-[#111111] mb-6">Say Hello</h1>
+      <p className="text-[#444444] text-lg mb-10">
+        I'm always open to interesting conversations — about marketplace strategy, operations, or any shared interest.
       </p>
       <div className="space-y-4">
         <div>

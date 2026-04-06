@@ -4,13 +4,13 @@ import Link from "next/link";
     return (
       <footer className="w-full border-t border-[#E5E4E0] py-8 mt-24">
         <div className="max-w-[1100px] mx-auto px-6 flex justify-between items-center">
-          <span className="text-sm text-[#888888]">
+          <span className="text-sm text-[#444444]">
             © {new Date().getFullYear()} Andres Rabellino
           </span>
           <Link
             href="https://www.linkedin.com/in/andres-rabellino/"
             target="_blank"
-            className="text-sm text-[#888888] hover:text-[#111111] transition-colors"
+            className="text-sm text-[#444444] hover:text-[#111111] transition-colors"
           >
             LinkedIn
           </Link>

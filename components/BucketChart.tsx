@@ -39,10 +39,10 @@ export default function BucketChart() {
         {/* Experiments — 5% */}
         <path d={experimentsPath} fill="#1B2A4A" />
         {/* Center label */}
-        <text x="120" y="114" textAnchor="middle" fontSize="13" fill="#888888" fontFamily="Inter, sans-serif">
+        <text x="120" y="114" textAnchor="middle" fontSize="13" fill="#444444" fontFamily="Inter, sans-serif">
           time
         </text>
-        <text x="120" y="132" textAnchor="middle" fontSize="13" fill="#888888" fontFamily="Inter, sans-serif">
+        <text x="120" y="132" textAnchor="middle" fontSize="13" fill="#444444" fontFamily="Inter, sans-serif">
           allocation
         </text>
       </svg>
@@ -53,14 +53,14 @@ export default function BucketChart() {
           <span className="mt-1 w-3 h-3 rounded-full shrink-0" style={{ backgroundColor: "#1B2A4A" }} />
           <div>
             <p className="font-semibold text-[#111111]">5% — Experiments</p>
-            <p className="text-[#888888]">Low-cost, high-upside bets. No mandate required.</p>
+            <p className="text-[#444444]">Low-cost, high-upside bets. No mandate required.</p>
           </div>
         </div>
         <div className="flex items-start gap-3">
           <span className="mt-1 w-3 h-3 rounded-full shrink-0" style={{ backgroundColor: "#E5E4E0" }} />
           <div>
             <p className="font-semibold text-[#111111]">95% — Core work</p>
-            <p className="text-[#888888]">High-stakes, planned, cross-functional execution.</p>
+            <p className="text-[#444444]">High-stakes, planned, cross-functional execution.</p>
           </div>
         </div>
       </div>
