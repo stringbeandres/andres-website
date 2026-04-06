@@ -11,7 +11,7 @@ export default function WorkPage() {
           <div key={section.company}>
             {/* Section header */}
             <div className="mb-8 max-w-[720px]">
-              <h2 className="font-serif text-2xl text-[#111111] mb-1">{section.company}</h2>
+              <h2 className="font-serif text-2xl font-normal text-[#111111] mb-1">{section.company}</h2>
               <p className="text-sm text-[#888888]">{section.role} · {section.years}</p>
             </div>
 
@@ -20,7 +20,7 @@ export default function WorkPage() {
               {workData && section.initiatives.map((item) => (
                 <div key={item.title} className="w-full border border-[#E5E4E0] px-10 py-8 flex flex-col justify-between min-h-[200px]">
                   <div>
-                    <h3 className="font-serif text-lg font-semibold text-[#111111] mb-3">{item.title}</h3>
+                    <h3 className="font-serif text-lg font-normal text-[#111111] mb-3">{item.title}</h3>
                     <p className="text-[#888888] leading-relaxed">{item.description}</p>
                   </div>
                   <div className="flex items-center justify-between mt-6">
