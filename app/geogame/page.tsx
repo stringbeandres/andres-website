@@ -79,7 +79,7 @@ export default function GeoGamePage() {
   // Landing view
   if (gameState === "landing") {
     return (
-      <div className="min-h-[calc(100vh-120px)] flex items-center justify-center px-6">
+      <div className="min-h-[calc(100vh-80px)] flex items-center justify-center px-6">
         <div className="max-w-[720px] w-full">
           <h1 className={`${paytone.className} text-4xl text-[#111111] mb-8`}>GeoGame</h1>
           <p className="text-[#444444] text-lg mb-8 leading-relaxed">
