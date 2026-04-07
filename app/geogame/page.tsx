@@ -92,6 +92,9 @@ export default function GeoGamePage() {
           >
             Start Game
           </button>
+          <a href="/writing/building-geogame" className="block mt-8 pl-1 text-sm text-[#1B2A4A] hover:underline underline-offset-4 transition-colors">
+            How I built this →
+          </a>
         </div>
       </div>
     );
