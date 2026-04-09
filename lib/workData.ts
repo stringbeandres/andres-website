@@ -17,7 +17,7 @@ export const workData: WorkSection[] = [
   {
     company: "Cove Brands",
     role: "Builder & Strategist",
-    years: "2022–Present",
+    years: "2022–2026",
     color: "#1B2A4A",
     initiatives: [
       {
