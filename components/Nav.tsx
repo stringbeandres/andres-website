@@ -9,7 +9,7 @@ import Link from "next/link";
           </Link>
           <div className="flex items-center gap-6 sm:gap-8">
             <Link href="/work" className="text-sm text-[#222222] hover:text-[#111111] transition-colors">
-              Work
+              CV
             </Link>
             <Link href="/writing" className="text-sm text-[#222222] hover:text-[#111111] transition-colors">
               Writing
