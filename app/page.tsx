@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="max-w-[720px] mx-auto px-6 py-20">
       <h1 className="font-serif text-5xl text-[#111111] leading-tight mb-10">
-        I work at the intersection of business, operations, and building things (with AI).
+        I work at the intersection of strategy, operations, and building things (with AI).
       </h1>
 
       <div className="space-y-5 text-[#111111] text-lg leading-relaxed">
