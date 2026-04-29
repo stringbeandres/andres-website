@@ -11,6 +11,8 @@ Who's selling this product. What their margins look like. Whether their listing 
 
 I built a tool to close that gap.
 
+![ASIN Brief — the New Brief inputs form](/asin-brief-inputs.png)
+
 ---
 
 ## 1. What you'd actually want to know
